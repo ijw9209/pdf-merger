@@ -1,0 +1,9 @@
+.container {
+  padding: 0 2rem;
+}
+
+.contentWrap {
+  width: 100vw;
+  margin-top: 100px;
+  text-align: center;
+}
